@@ -1,4 +1,3 @@
-
 # FeatherOS
 
 **Light. Fast. Simple.**
