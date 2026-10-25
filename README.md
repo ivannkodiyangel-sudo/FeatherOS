@@ -2,19 +2,28 @@
 
 **Light. Fast. Simple.**
 
-FeatherOS is an experimental lightweight Linux distribution inspired by Tiny Core Linux, focused on simplicity, speed, and a minimal computing environment.
+FeatherOS is an independent lightweight Linux distribution project focused on simplicity, speed, and a minimal computing environment.
 
-## Our Vision
+## Project Goals
 
-Our goal is to develop an independent operating system with its own identity, lightweight tools, package manager, applications, and desktop environment.
+- Build a lightweight Linux-based operating system.
+- Develop a simple boot and initialization system.
+- Create FeatherOS's own package manager, `featherpkg`.
+- Develop a lightweight desktop environment and essential applications.
+- Explore compatibility with different hardware architectures.
 
 ## Current Development
 
-- Initial root filesystem structure
-- Linux kernel and BusyBox experimentation
-- Custom initialization scripts
-- `featherpkg` package manager prototype
-- Early desktop and application concepts
+FeatherOS is in an early experimental stage.
+
+Work includes:
+- Initial root filesystem structure.
+- Boot and initialization scripts.
+- Early command-line utilities.
+- Initial `featherpkg` package manager.
+- Desktop environment and application prototypes.
+
+Features and compatibility are still under development.
 
 ## Roadmap
 
@@ -38,18 +47,20 @@ Our goal is to develop an independent operating system with its own identity, li
 - [ ] Installer
 - [ ] Stable release
 
-## Hardware Compatibility
+## Hardware and Compatibility
 
-FeatherOS is experimental. Compatibility with ARM devices, including the Raspberry Pi 4, has not yet been established.
+FeatherOS is experimental. Hardware compatibility, including ARM-based devices such as the Raspberry Pi 4, has not yet been established.
 
 ## Project Status
 
 **Early development — not ready for everyday use.**
 
+Contributions, testing, and constructive feedback are welcome.
+
 ## License
 
-The project license has not yet been selected.
+A project license has not yet been selected. Licensing information will be added after the license is decided.
 
 ---
 
-FeatherOS is an independent project inspired by Tiny Core Linux. It is not an official Tiny Core Linux or Raspberry Pi project.
+FeatherOS is an independent project and is not an official Raspberry Pi or Linux Foundation product.
